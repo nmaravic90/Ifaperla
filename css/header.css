@@ -1,0 +1,29 @@
+.navbar-brand,
+.navbar-nav li a {
+    line-height: 70px;
+    height: 70px;
+    padding-top: 0;
+	font-size:19px;
+	font-family:open sans;
+	
+	}
+
+#navigacija{background-color:#000;}
+#logo{padding-top:18px;}
+.navbar-toggle{margin-top:18px;}
+
+
+ /* Boja tabova u navigaciji*/
+ 
+.navbar-inverse .navbar-nav>li>a{color:#fff;}
+.navbar-inverse .navbar-nav>li>a:hover{color:#000;background-color:#eec923;transition: 1.5s ease}
+
+.carousel-control.left, .carousel-control.right{
+	background-image:none !important;
+	.reset-filter();
+}
+@media screen and (max-width: 769px) {
+	.navbar-brand,
+	.navbar-nav li a{font-size:16px;}
+	
+}

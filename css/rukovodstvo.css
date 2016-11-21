@@ -1,0 +1,38 @@
+#rukovodstvo{
+    padding-top: 30px;
+    padding-bottom: 50px;
+    background-color: #fff;
+    text-align: center;
+    font-size: 20px;
+
+}
+
+#rukovodstvo h1{
+   color: #eec923;
+   text-shadow: 2px 2px 6px #000000;
+}
+
+
+#rukovodstvo hr{
+    border: 0;
+    height: 1px;
+    background-color: #eec923;
+}
+
+
+#rukovodstvo-slike{
+   padding-top: 60px;
+   padding-bottom: 60px;
+}
+
+
+#rukovodstvo p{
+  font-size: 12px;
+  font-style: italic;
+}
+
+
+h2 {
+    color: #eec923;
+    }
+

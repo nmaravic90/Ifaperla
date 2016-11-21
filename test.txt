@@ -1,0 +1,156 @@
+<?php include('header.php');?>
+<br><br><br><br><br>
+<div class="container">
+<div class="col-xs-12">
+
+    <div class="page-header">
+        <h3>Najnovija dogadjanja</h3>
+        
+    </div>
+        
+    <div class="carousel slide" data-wrap="false" id="myCarousel">
+        <div class="carousel-inner">
+            <div class="item active">
+                    <ul class="thumbnails">
+                        
+                       
+                        <li class="col-lg-4 col-md-6 col-sm-10">
+							<div class="fff">
+								<div class="thumbnail">
+									<a href="#"><img src="http://placehold.it/360x240" alt="" class="vestislika"></a>
+								</div>
+								<div class="caption">
+									<h4>Vest 1</h4>
+									<p>Tekst vesti 1</p>
+									<a class="btn btn-mini" href="#">» Saznaj vise</a>
+								</div>
+                            </div>
+                        </li>
+                        <li class="col-lg-4 col-md-6 col-sm-10">
+							<div class="fff">
+								<div class="thumbnail">
+									<a href="#"><img src="http://placehold.it/360x240" alt="" class="vestislika"></a>
+								</div>
+								<div class="caption">
+									<h4>Vest 2</h4>
+									<p>tekst vesti 2</p>
+									<a class="btn btn-mini" href="#">» Saznaj vise</a>
+								</div>
+                            </div>
+                        </li>
+						<li class="col-lg-4 col-md-6 col-sm-10">
+							<div class="fff">
+								<div class="thumbnail">
+									<a href="#"><img src="http://placehold.it/360x240" alt="" class="vestislika"></a>
+								</div>
+								<div class="caption">
+									<h4>Vest 3</h4>
+									<p>Tekst vesti 3</p>
+									<a class="btn btn-mini" href="#">» Saznaj vise</a>
+								</div>
+                            </div>
+                        </li>
+                    </ul>
+              </div><!-- /Slide1 --> 
+            <div class="item">
+                    <ul class="thumbnails">
+                        <li class="col-lg-4 col-md-6 col-sm-10">
+							<div class="fff">
+								<div class="thumbnail">
+									<a href="#"><img src="http://placehold.it/360x240" alt="" class="vestislika"></a>
+								</div>
+								<div class="caption">
+									<h4>Vest 4</h4>
+									<p>Tekst vesti 4</p>
+									<a class="btn btn-mini" href="#">» Saznaj vise</a>
+								</div>
+                            </div>
+                        </li>
+                        <li class="col-lg-4 col-md-6 col-sm-10">
+							<div class="fff">
+								<div class="thumbnail">
+									<a href="#"><img src="http://placehold.it/360x240" alt="" class="vestislika"></a>
+								</div>
+								<div class="caption">
+									<h4>Vest 5</h4>
+									<p>Tekst vesti 5</p>
+									<a class="btn btn-mini" href="#">» Saznaj vise</a>
+								</div>
+                            </div>
+                        </li>
+						<li class="col-lg-4 col-md-6 col-sm-10">
+							<div class="fff">
+								<div class="thumbnail">
+									<a href="#"><img src="http://placehold.it/360x240" alt="" class="vestislika"></a>
+								</div>
+								<div class="caption">
+									<h4>Vest 6</h4>
+									<p>Tekst vesti 6</p>
+									<a class="btn btn-mini" href="#">» Saznaj vise</a>
+								</div>
+                            </div>
+                        </li>
+                        
+                       
+                    </ul>
+              </div><!-- /Slide2 --> 
+            <div class="item">
+			                    <ul class="thumbnails">
+                   <li class="col-lg-4 col-md-6 col-sm-10">
+							<div class="fff">
+								<div class="thumbnail">
+									<a href="#"><img src="http://placehold.it/360x240" alt="" class="vestislika"></a>
+								</div>
+								<div class="caption">
+									<h4>Vest 7</h4>
+									<p>Tekst vesti 7</p>
+									<a class="btn btn-mini" href="#">»Saznaj vise</a>
+								</div>
+                            </div>
+                        </li>
+						 <li class="col-lg-4 col-md-6 col-sm-10">
+							<div class="fff">
+								<div class="thumbnail">
+									<a href="#"><img src="http://placehold.it/360x240" alt="" class="vestislika"></a>
+								</div>
+								<div class="caption">
+									<h4>Vest 8</h4>
+									<p>Tekst vesti 8</p>
+									<a class="btn btn-mini" href="#">» Saznaj vise</a>
+								</div>
+                            </div>
+                        </li>
+						<li class="col-lg-4 col-md-6 col-sm-10">
+							<div class="fff">
+								<div class="thumbnail">
+									<a href="#"><img src="http://placehold.it/360x240" alt="" class="vestislika"></a>
+								</div>
+								<div class="caption">
+									<h4>Vest 9</h4>
+									<p>Tekst vesti 9</p>
+									<a class="btn btn-mini" href="#">» Saznaj vise</a>
+								</div>
+                            </div>
+                        </li>
+                       
+                       
+                        
+                    </ul>
+              </div><!-- /Slide3 --> 
+        </div>
+        
+       
+	   
+	   <!-- /.control-box -->   
+                              
+    </div><!-- /#myCarousel -->
+        
+</div><!-- /.col-xs-12 -->          
+
+</div><!-- /.container -->
+<script> $(document).ready(function() {
+    $('.carousel').carousel({
+      interval: 4000
+    })
+  });</script>
+<br><br>

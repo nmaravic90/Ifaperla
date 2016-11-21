@@ -1,0 +1,56 @@
+#onamaslika{
+	
+	margin:15px auto;
+
+}
+
+#wrapper{
+	background-color:white;
+}
+
+
+
+.sadrzajonama{
+	font-size: 22px;
+	color: #4A4A4A;
+	text-align: justify;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	 font-family: Calibri;
+}
+
+
+#video{
+	padding: 50%;
+}
+
+
+
+#naslov1{
+	margin-top: 30px;
+	font-family: open sans;
+	font-size: 32px;
+	text-align: center;
+	border-bottom: solid #eec923 1px;
+	margin-bottom: 30px;
+
+
+}
+
+#naslov2{
+	margin-top: 30px;
+	color: #eec923;
+	font-size: 65px;
+	text-align: center;
+	//text-shadow: 2px 2px 6px #000000;
+	
+}
+
+#br{
+	padding-bottom: 60px;
+}
+
+#img-onama{
+	padding-top: 60px;
+
+}

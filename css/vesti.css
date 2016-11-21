@@ -1,0 +1,82 @@
+ul
+{
+    list-style-type: none;
+}
+
+.thumbnail{
+	float:left;
+	width:50%;
+	margin-top:0px;
+	padding-top:0px;
+	margin-left:0px;
+	padding-left:0px;
+	margin-right:0px;
+	padding-right:0px;
+	margin-bottom:0px;
+	padding-bottom:0px;
+	text-align:center;
+	border: 0px;
+	
+}
+.vestislika{width:100%;}
+.fff{width:100%;text-align:center;margin-right:80px;}
+
+
+
+.caption{
+	padding-top: 5%;
+	margin-left: 55%;
+	text-align: center;
+}
+
+.caption h4{
+	font-size: 25px;
+	font-weight: bold;
+	color: #eec923;
+	text-shadow: 1px 1px 2px #000000;
+	
+}
+
+.caption p{
+	font-size: 19px;
+	
+}
+
+
+.caption hr{
+    border: 0;
+    height: 1px;
+    background-color: #eec923;
+}
+
+
+.btn-default {
+	font-weight: bold;
+	background-color: #eec923;
+	padding: 10px 30px;
+
+}
+#parni,#parni2,#neparni3,#neparni4 {
+	background-color:#fff;
+	color:#232323;
+	
+	
+}
+
+.svise {
+	width: 50px;
+	height: 50px;
+	background-color:#eec923;
+	color:#000;
+	border:2px solid #232323;
+	border-radius:2px;
+	text-align:center
+}
+
+.svise:hover{color:#fff;}
+
+@media screen and (max-width: 1025px) {
+    .thumbnail{border:0;float:left;}
+	.fff{margin-right:150px;text-align:left;} //prelamanje teksta u responsive-u
+	.caption{float:none;)
+	
