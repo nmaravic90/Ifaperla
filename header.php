@@ -77,7 +77,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#"><img style="max-width:100px; margin-top: -7px;"src="img/logo.png" id="logo"></a>
+                
 				
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
